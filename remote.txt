@@ -1,2 +1,0 @@
-Hello Testing ..
-ipv4 106.11.20.100
